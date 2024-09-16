@@ -32,9 +32,7 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 
 ## Alguns projetos
 [![Repo si-activities](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=holi)](https://github.com/arthurfaraujo/si-activities)
+[![Repo elections-py](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=holi)](https://github.com/arthurfaraujo/elections-py)
 [![Repo si-activities-api](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities-api&theme=holi)](https://github.com/arthurfaraujo/si-activities-api)
 [![Repo crud-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=crud-spring&theme=holi)](https://github.com/arthurfaraujo/crud-spring)
 [![Repo rocket-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=rocket-spring&theme=holi)](https://github.com/arthurfaraujo/rocket-spring)
-[![Repo elections-py](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=holi)](https://github.com/arthurfaraujo/elections-py)
-
-
