@@ -7,7 +7,7 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 <br>
 <div>
   <a href="https://github.com/arthurfaraujo/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=16&theme=nightowl"></img>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=16&theme=dracula"></img>
   </a>
 </div>
 <br>
@@ -29,5 +29,12 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
   <a href="mailto:arthurfelipe5567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
 <br>
+
+## Alguns projetos
+[![Repo si-activities](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=dracula)](https://github.com/arthurfaraujo/si-activities)
+[![Repo si-activities-api](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities-api&theme=dracula)](https://github.com/arthurfaraujo/si-activities-api)
+[![Repo crud-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=crud-spring&theme=dracula)](https://github.com/arthurfaraujo/crud-spring)
+[![Repo rocket-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=rocket-spring&theme=dracula)](https://github.com/arthurfaraujo/rocket-spring)
+[![Repo elections-py](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=dracula)](https://github.com/arthurfaraujo/elections-py)
 
 
