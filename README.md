@@ -7,7 +7,7 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 <br>
 <div>
   <a href="https://github.com/arthurfaraujo/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=16&theme=dracula"></img>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=16&card_width=400&theme=holi"></img>
   </a>
 </div>
 <br>
@@ -31,10 +31,10 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 <br>
 
 ## Alguns projetos
-[![Repo si-activities](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=dracula)](https://github.com/arthurfaraujo/si-activities)
-[![Repo si-activities-api](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities-api&theme=dracula)](https://github.com/arthurfaraujo/si-activities-api)
-[![Repo crud-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=crud-spring&theme=dracula)](https://github.com/arthurfaraujo/crud-spring)
-[![Repo rocket-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=rocket-spring&theme=dracula)](https://github.com/arthurfaraujo/rocket-spring)
-[![Repo elections-py](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=dracula)](https://github.com/arthurfaraujo/elections-py)
+[![Repo si-activities](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=holi)](https://github.com/arthurfaraujo/si-activities)
+[![Repo si-activities-api](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities-api&theme=holi)](https://github.com/arthurfaraujo/si-activities-api)
+[![Repo crud-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=crud-spring&theme=holi)](https://github.com/arthurfaraujo/crud-spring)
+[![Repo rocket-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=rocket-spring&theme=holi)](https://github.com/arthurfaraujo/rocket-spring)
+[![Repo elections-py](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=holi)](https://github.com/arthurfaraujo/elections-py)
 
 
