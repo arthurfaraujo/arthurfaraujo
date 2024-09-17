@@ -31,9 +31,9 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 <br>
 
 ## Alguns projetos
-[![Repo si-activities](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=omni)](https://github.com/arthurfaraujo/si-activities)
-[![Repo elections-py](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=omni)](https://github.com/arthurfaraujo/elections-py)
-[![Repo si-activities-api](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities-api&theme=omni)](https://github.com/arthurfaraujo/si-activities-api)
-[![Repo crud-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=crud-spring&theme=omni)](https://github.com/arthurfaraujo/crud-spring)
-[![Repo portfolio](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=portfolio&theme=omni)](https://github.com/arthurfaraujo/portfolio)
-[![Repo rocket-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=rocket-spring&theme=omni)](https://github.com/arthurfaraujo/rocket-spring)
+[![Repo si-activities](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=omni&card_width=350)](https://github.com/arthurfaraujo/si-activities)
+[![Repo elections-py](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=omni&card_width=350)](https://github.com/arthurfaraujo/elections-py)
+[![Repo si-activities-api](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities-api&theme=omni&card_width=350)](https://github.com/arthurfaraujo/si-activities-api)
+[![Repo crud-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=crud-spring&theme=omni&card_width=350)](https://github.com/arthurfaraujo/crud-spring)
+[![Repo portfolio](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=portfolio&theme=omni&card_width=350)](https://github.com/arthurfaraujo/portfolio)
+[![Repo rocket-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=rocket-spring&theme=omni&card_width=350)](https://github.com/arthurfaraujo/rocket-spring)
