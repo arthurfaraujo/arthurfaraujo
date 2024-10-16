@@ -5,10 +5,11 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 
 ## Linguagens (Techs)
 <br>
-<div>
-  <a href="https://github.com/arthurfaraujo/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=16&card_width=400&theme=omni"></img>
-  </a>
+<div align="center">
+  <div style="display: flex">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=10&hide_border=true&theme=omni&card_width=400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfaraujo&theme=omni&hide_border=true" />
+  </div>
 </div>
 <br>
 <div style="display: inline-block">
@@ -25,15 +26,19 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 
 <div>
   <a href="https://www.linkedin.com/in/arthfelaraujo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-  <a href="https://www.instagram.com/artufp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+  <a href="https://www.instagram.com/arthurfaraujo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
   <a href="mailto:arthurfelipe5567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
 <br>
 
 ## Alguns projetos
-[![Repo si-activities](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=omni&card_width=350)](https://github.com/arthurfaraujo/si-activities)
-[![Repo elections-py](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=omni&card_width=350)](https://github.com/arthurfaraujo/elections-py)
-[![Repo si-activities-api](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities-api&theme=omni&card_width=350)](https://github.com/arthurfaraujo/si-activities-api)
-[![Repo crud-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=crud-spring&theme=omni&card_width=350)](https://github.com/arthurfaraujo/crud-spring)
-[![Repo portfolio](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=portfolio&theme=omni&card_width=350)](https://github.com/arthurfaraujo/portfolio)
-[![Repo rocket-spring](https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=rocket-spring&theme=omni&card_width=350)](https://github.com/arthurfaraujo/rocket-spring)
+<div align="center">
+  <div style="display: flex">
+    <a href="https://github.com/arthurfaraujo/si-activities"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/arthurfaraujo/elections-py"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=elections-py&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/arthurfaraujo/si-activities-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities-api&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/arthurfaraujo/crud-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=crud-spring&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/arthurfaraujo/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=portfolio&theme=omni&card_width=350&hide_border=true"></a>
+    <a href="https://github.com/arthurfaraujo/rocket-spring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=rocket-spring&theme=omni&card_width=350&hide_border=true"></a>
+  </div>
+</div>
