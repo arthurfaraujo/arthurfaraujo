@@ -7,7 +7,7 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 <br>
 <div align="center">
   <div style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=10&hide_border=true&theme=omni&card_width=400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=10&hide_border=true&theme=omni&card_width=400" width="500px" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurfaraujo&theme=omni&hide_border=true" />
   </div>
 </div>
