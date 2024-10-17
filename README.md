@@ -25,7 +25,7 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 ## Contatos
 
 <div>
-  <a href="https://www.linkedin.com/in/arthfelaraujo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a href="https://www.linkedin.com/in/arthurfaraujoo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
   <a href="https://www.instagram.com/arthurfaraujo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
   <a href="mailto:arthurfelipe5567@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 </div>
