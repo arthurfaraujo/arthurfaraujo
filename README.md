@@ -5,7 +5,7 @@ Meu primeiro contato com esse mundo foi no ensino médio ao fazer um curso técn
 Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vasto mundo.
 <br>
 
-## Stats
+## Stats 🔢🎲
 <div align="center">
   <div style="display: flex">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfaraujo&layout=compact&langs_count=10&hide_border=true&theme=omni&card_width=400" width="500px" />
