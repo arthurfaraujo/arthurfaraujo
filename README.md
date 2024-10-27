@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=Arthur%20Felipe&animation=fadeIn&fontColor=7811ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&text=Arthur%20Felipe&animation=fadeIn&fontColor=c9119e"/>
 
 Eu sou Arthur Felipe, desenvolvedor web em formação e apaixonado por programação. <br>
 Meu primeiro contato com esse mundo foi no ensino médio ao fazer um curso técnico e desde então não largo mais os estudos na área. <br>
@@ -44,4 +44,4 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
   </div>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9332ff&section=footer&fontColor=7811ff&fontSize=50&textBg=false&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=c9119e&section=footer&fontColor=c9119e&fontSize=50&textBg=false&reversal=false"/>
