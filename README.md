@@ -23,7 +23,7 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 ![Java](https://img.shields.io/badge/Java-fd7231?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-347823?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
 
-## Contatos 📱
+## Contatos 📱☎️
 
 <div>
   <a href="https://www.linkedin.com/in/arthurfaraujoo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
@@ -32,7 +32,7 @@ Gosto muito de desenvolvimento backend e procuro crescer cada vez mais nesse vas
 </div>
 <br>
 
-## Alguns projetos
+## Alguns projetos ⌨️👨‍💻
 <div align="center">
   <div style="display: flex">
     <a href="https://github.com/arthurfaraujo/si-activities"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arthurfaraujo&repo=si-activities&theme=omni&card_width=350&hide_border=true"></a>
